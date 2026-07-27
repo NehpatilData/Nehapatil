@@ -1,5 +1,5 @@
 # Nehapatil
-Hi, I'm Neha Patil 👋
+Hi, I'm Neha Patil 👋\n
 About Me
 Fresher looking to start a career in Data Analytics
 Currently learning: SQL, Excel, Python, Power BI
