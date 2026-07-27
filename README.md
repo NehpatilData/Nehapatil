@@ -1,4 +1,4 @@
-# Nehapatil
+# NehpatilData
 Hi, I'm Neha Patil 👋\n
 About Me
 Fresher looking to start a career in Data Analytics
